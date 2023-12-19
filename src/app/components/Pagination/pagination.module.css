@@ -1,0 +1,13 @@
+.pagination {
+  margin: 20px;
+}
+
+.button {
+  cursor: pointer;
+  color: red;
+}
+
+.active {
+  background-color: black;
+  color: white;
+}/*# sourceMappingURL=pagination.module.css.map */
